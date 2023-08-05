@@ -1,7 +1,7 @@
 # AP Research 2023
-This repository currently contains my final AP Research paper submission for the 2022/2023 school year. This submission was granted a 5 by College Board and I will provide some details on my process for creating this project and some things I learned below. 
+This repository currently contains my final AP Research paper submission for the 2022/2023 school year. This submission was granted a 5 by College Board and I hope this may inspire you to pursue your own technical "create" style project.
 
-I hope this may inspire you to pursue your own technical "create" style project, and thanks for checking it out!
+Thanks for checking it out!
 <br/><br/>
 ## Additional Information
 ### Writing Process
